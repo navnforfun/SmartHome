@@ -3,59 +3,87 @@
   "WorkspaceRootPath": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\securitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\securitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\models\\entity\\securitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:models\\entity\\securitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\models\\entity\\smarthomecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:models\\entity\\smarthomecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\readme.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:readme.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\emailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\controllers\\securitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:controllers\\securitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\home\\camera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\home\\camera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\securitylogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\securitylogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\securitylogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\securitylogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\securitylogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\securitylogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\models\\entity\\securitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:models\\entity\\securitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\code\\viewsmarthome\\smarthome\\controllers\\securitylogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|d:\\dnu\\oldsemeter\\year3\\hk1\\iot_ai\\btl_final\\smarthome\\readme.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FB9E39A3-C2A4-4AC7-840F-856F8AB83EB5}|SmartHome.csproj|solutionrelative:readme.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,158 +93,218 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T12:51:03.909Z",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\Account.cs",
+              "RelativeDocumentMoniker": "Controllers\\Account.cs",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\Account.cs",
+              "RelativeToolTip": "Controllers\\Account.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:18:18.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmailsController.cs",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\EmailsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmailsController.cs",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\EmailsController.cs",
-              "RelativeToolTip": "Controllers\\EmailsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:51:04.394Z"
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T06:52:51.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "Camera.cshtml",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Home\\Camera.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Camera.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Home\\Camera.cshtml",
+              "RelativeToolTip": "Views\\Home\\Camera.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T16:31:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SecurityLogsController.cs",
               "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\SecurityLogsController.cs",
               "RelativeDocumentMoniker": "Controllers\\SecurityLogsController.cs",
               "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\SecurityLogsController.cs",
               "RelativeToolTip": "Controllers\\SecurityLogsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:51:04.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:51:04.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T12:51:04.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:51:04.399Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashBoardController.cs",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowCoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:51:04.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailsController.cs",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\EmailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailsController.cs",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\EmailsController.cs",
+              "RelativeToolTip": "Controllers\\EmailsController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:51:04.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T12:51:04.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartHomeContext.cs",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\Entity\\SmartHomeContext.cs",
+              "RelativeDocumentMoniker": "Models\\Entity\\SmartHomeContext.cs",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\Entity\\SmartHomeContext.cs",
+              "RelativeToolTip": "Models\\Entity\\SmartHomeContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:51:04.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAM0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T12:51:04.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\SecurityLogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\SecurityLogs\\Details.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\SecurityLogs\\Details.cshtml",
+              "RelativeToolTip": "Views\\SecurityLogs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:52:12.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\SecurityLogs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\SecurityLogs\\Edit.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\SecurityLogs\\Edit.cshtml",
+              "RelativeToolTip": "Views\\SecurityLogs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:52:11.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T08:49:32.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAABAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:51:04.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-26T12:51:04.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashBoardController.cs",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\DashBoardController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DashBoardController.cs",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Controllers\\DashBoardController.cs",
-              "RelativeToolTip": "Controllers\\DashBoardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:51:04.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\DashBoard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\DashBoard\\Index.cshtml",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\DashBoard\\Index.cshtml",
-              "RelativeToolTip": "Views\\DashBoard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\SecurityLogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SecurityLogs\\Index.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\SecurityLogs\\Index.cshtml",
+              "RelativeToolTip": "Views\\SecurityLogs\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T12:51:04.389Z"
+              "WhenOpened": "2024-06-02T08:46:48.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SecurityLogsController.cs",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
-              "RelativeDocumentMoniker": "..\\..\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
-              "RelativeToolTip": "..\\..\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwI0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:51:04.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SmartHomeContext.cs",
-              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\Entity\\SmartHomeContext.cs",
-              "RelativeDocumentMoniker": "Models\\Entity\\SmartHomeContext.cs",
-              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\Entity\\SmartHomeContext.cs",
-              "RelativeToolTip": "Models\\Entity\\SmartHomeContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:51:04.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "SecurityLog.cs",
               "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\Entity\\SecurityLog.cs",
               "RelativeDocumentMoniker": "Models\\Entity\\SecurityLog.cs",
@@ -228,7 +316,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T12:51:03.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T12:51:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:51:04.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SecurityLogsController.cs",
+              "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
+              "ToolTip": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
+              "RelativeToolTip": "..\\..\\Code\\ViewSmartHome\\SmartHome\\Controllers\\SecurityLogsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwI0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:51:04.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "readme.md",
               "DocumentMoniker": "D:\\DNU\\OldSemeter\\Year3\\HK1\\IOT_AI\\BTL_Final\\SmartHome\\readme.md",
               "RelativeDocumentMoniker": "readme.md",
@@ -236,8 +372,7 @@
               "RelativeToolTip": "readme.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-03-26T12:51:04.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T12:51:04.409Z"
             }
           ]
         }

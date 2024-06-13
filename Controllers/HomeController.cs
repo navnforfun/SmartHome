@@ -27,6 +27,11 @@ namespace SmartHome.Controllers
             var listLog = _context.Logs.OrderByDescending(x=> x.Id).Take(10).ToList();
             return View(listLog);
         }
+        public async Task<List<Log>> ListStateCamera(int n)
+        {
+            var listLog = _context.Logs.OrderByDescending(x => x.Id).Take(n).ToList();
+            return listLog;
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
